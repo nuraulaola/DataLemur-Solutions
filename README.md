@@ -1,4 +1,4 @@
-# DataLemur-Solutions
+# DataLemur Solutions
 
 Welcome to my DataLemur Solutions repository! This collection features my solutions to various DataLemur challenges, covering a range of topics and languages.
 
